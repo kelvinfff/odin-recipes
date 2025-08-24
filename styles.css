@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+.main-text {
+    text-align: center;
+    font-family: cursive;
+    color: yellow;
+    background: red;
+}
+
+.main-list {
+    font-family: cursive;
+    padding: 50px;
+    display: block;
+    margin: auto;
+}
+
+a {
+    color: yellow;
+}
+
+.card {
+    width: auto;
+    height: auto;
+    background: rgb(129, 13, 13);
+}
+
+body {
+    background-image: url('https://images.pexels.com/photos/604969/pexels-photo-604969.jpeg');
+    background-size: cover;
+    background-position: center center;
+}
